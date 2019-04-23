@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components Tests Index page renders correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Components Tests Results page renders correctly 1`] = `ShallowWrapper {}`;
