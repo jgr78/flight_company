@@ -1,0 +1,9 @@
+{
+  "ignore": ["*.scss", "/node_modules/"],
+  "presets": ["react", "env"],
+  "plugins": [
+    "transform-regenerator",
+    "transform-object-rest-spread",
+    "transform-class-properties"
+  ]
+}
