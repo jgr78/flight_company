@@ -49,6 +49,7 @@ Redux-Thunk
 Next
 Prop-Types
 React-Input-Ranges
+Express
 
 
 And for the styling:  SASS / Sytle JSX / CSS Flexbox
